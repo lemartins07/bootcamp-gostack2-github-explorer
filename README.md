@@ -8,11 +8,11 @@
  List your favorite GitHub repositories and see it's information and issues.
 </h4>
 
+![App Screenshot](https://res.cloudinary.com/domppya5s/image/upload/v1590545596/github-explorer_m6sz8c.png)
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
 </p>
 
 ## :rocket: Technologies
@@ -51,8 +51,6 @@ $ yarn start
 ```
 ---
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-rocketshoes/blob/master/LICENSE) for more information.
 
 Made with ♥ by Leandro Martins :wave: [Get in touch!](https://www.linkedin.com/in/lemartins07/)
 
