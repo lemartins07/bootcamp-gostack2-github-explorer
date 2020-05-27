@@ -20,6 +20,7 @@
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
+-  [Typescript](https://www.typescriptlang.org/)
 -  [React Router](https://github.com/ReactTraining/react-router)
 -  [Axios](https://github.com/axios/axios)
 -  [Polished](https://polished.js.org/)
